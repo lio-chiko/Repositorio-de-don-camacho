@@ -1,0 +1,213 @@
+[03:25:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:25:40] [Worker-Main-2/INFO]: No existing world data, creating new world
+[03:25:40] [ServerMain/INFO]: Loaded 1515 recipes
+[03:25:40] [ServerMain/INFO]: Loaded 1617 advancements
+[03:25:41] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[03:25:41] [Server thread/INFO]: Loading properties
+[03:25:41] [Server thread/INFO]: Default game type: SURVIVAL
+[03:25:41] [Server thread/INFO]: Generating keypair
+[03:25:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:25:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:25:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:25:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:25:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:25:41] [Server thread/INFO]: Preparing level "world"
+[03:25:41] [Server thread/INFO]: Selecting global world spawn...
+[03:25:47] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:25:47] [Server thread/INFO]: Preparing spawn area: 100%
+[03:25:47] [Server thread/INFO]: Time elapsed: 5915 ms
+[03:25:47] [Server thread/INFO]: Done (6.190s)! For help, type "help"
+[03:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:26:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:26:50] [Server thread/INFO]: BerberUga[/10.127.106.105:50873] logged in with entity id 41 at (26.5, 109.0, 4.5)
+[03:26:50] [Server thread/INFO]: BerberUga joined the game
+[03:27:05] [Server thread/INFO]: Made BerberUga a server operator
+[03:34:34] [Server thread/INFO]: BerberUga has made the advancement [Stone Age]
+[03:35:19] [Server thread/INFO]: BerberUga has made the advancement [Getting an Upgrade]
+[03:43:17] [Server thread/INFO]: BerberUga lost connection: Disconnected
+[03:43:17] [Server thread/INFO]: BerberUga left the game
+[03:43:59] [Server thread/INFO]: BerberUga[/10.127.106.105:52014] logged in with entity id 4175 at (-245.37568494419565, 62.11076431274414, -55.24660530103984)
+[03:43:59] [Server thread/INFO]: BerberUga joined the game
+[03:56:24] [Server thread/INFO]: BerberUga has made the advancement [Sweet Dreams]
+[04:01:34] [Server thread/INFO]: BerberUga has made the advancement [Acquire Hardware]
+[04:03:26] [Server thread/INFO]: BerberUga has made the advancement [Isn't It Iron Pick]
+[04:04:45] [Server thread/INFO]: BerberUga has made the advancement [Monster Hunter]
+[04:05:18] [Server thread/INFO]: BerberUga fell from a high place
+[04:07:48] [Server thread/INFO]: BerberUga has made the advancement [Diamonds!]
+[04:31:21] [Server thread/INFO]: farfadox[/10.127.106.107:62966] logged in with entity id 15683 at (24.5, 103.0, 8.5)
+[04:31:21] [Server thread/INFO]: farfadox joined the game
+[04:31:24] [Server thread/INFO]: [Not Secure] <BerberUga> penes
+[04:31:29] [Server thread/INFO]: [Not Secure] <farfadox> comes
+[04:31:36] [Server thread/INFO]: [Not Secure] <BerberUga> penesa
+[04:31:44] [Server thread/INFO]: [Not Secure] <BerberUga> penes
+[04:33:14] [Server thread/INFO]: BerberUga has made the advancement [Cover Me with Diamonds]
+[04:33:54] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=22, y=95, z=1}
+[04:34:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=98, z=-9}
+[04:34:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=19, y=97, z=-8}
+[04:34:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=97, z=-8}
+[04:34:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=96, z=-9}
+[04:34:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=17, y=97, z=-9}
+[04:34:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=96, z=-9}
+[04:34:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=19, y=96, z=-10}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=98, z=-7}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=98, z=-7}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=98, z=-7}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=98, z=-7}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=32, y=99, z=-7}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=98, z=-7}
+[04:34:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=98, z=-7}
+[04:34:19] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=98, z=-7}
+[04:34:19] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=98, z=-7}
+[04:34:19] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=32, y=99, z=-7}
+[04:35:21] [Server thread/INFO]: [Not Secure] <BerberUga> penes
+[04:35:39] [Server thread/INFO]: [Not Secure] <farfadox> hablalo bajinon
+[04:35:43] [Server thread/INFO]: [Not Secure] <BerberUga> penes
+[04:37:16] [Server thread/INFO]: BerberUga has made the advancement [Not Today, Thank You]
+[04:37:51] [Server thread/INFO]: farfadox has made the advancement [Stone Age]
+[04:38:10] [Server thread/INFO]: farfadox has made the advancement [Getting an Upgrade]
+[04:38:49] [Server thread/INFO]: [BerberUga: Teleported farfadox to BerberUga]
+[04:39:00] [Server thread/INFO]: [Not Secure] <farfadox> pucta pero un chace me demora
+[04:39:09] [Server thread/INFO]: [Not Secure] <BerberUga> un chance siiiiii
+[04:39:09] [Server thread/INFO]: [Not Secure] <farfadox> y ya estas de diamente pobre verga
+[04:39:11] [Server thread/INFO]: farfadox has made the advancement [Diamonds!]
+[04:39:29] [Server thread/INFO]: [Not Secure] <BerberUga> ten verga
+[04:39:36] [Server thread/INFO]: farfadox has made the advancement [Acquire Hardware]
+[04:39:45] [Server thread/INFO]: [Not Secure] <farfadox> q soy tu mochila o q mamaverga
+[04:39:54] [Server thread/INFO]: [Not Secure] <BerberUga> paila
+[04:40:33] [Server thread/INFO]: [Not Secure] <BerberUga> voy a esclavizar a los realpes
+[04:41:02] [Server thread/INFO]: [Not Secure] <farfadox> hagale me voy a full diamont
+[04:41:16] [Server thread/INFO]: [Not Secure] <BerberUga> lleva comida para que te quedes hasta mas no poder
+[04:41:31] [Server thread/INFO]: [Not Secure] <farfadox> tienes o saco panes
+[04:41:39] [Server thread/INFO]: [Not Secure] <BerberUga> tengo
+[04:42:18] [Server thread/INFO]: [Not Secure] <BerberUga> te hago tp?
+[04:42:23] [Server thread/INFO]: farfadox fell from a high place
+[04:42:26] [Server thread/INFO]: Made farfadox a server operator
+[04:42:35] [Server thread/INFO]: [Not Secure] <BerberUga> puta jajaja
+[04:42:55] [Server thread/INFO]: [Not Secure] <farfadox> y los neggros
+[04:43:06] [Server thread/INFO]: [Not Secure] <BerberUga> te hago tp?
+[04:43:32] [Server thread/INFO]: [Not Secure] <BerberUga> encontre un huecote creo que capas aca te caiste
+[04:43:39] [Server thread/INFO]: [Not Secure] <farfadox> no
+[04:43:48] [Server thread/INFO]: [Not Secure] <farfadox> me bote pq tinia un corazon
+[04:43:53] [Server thread/INFO]: [Not Secure] <BerberUga> aaaaaaa
+[04:43:57] [Server thread/INFO]: [Not Secure] <BerberUga> a
+[04:43:58] [Server thread/INFO]: [Not Secure] <BerberUga> ya
+[04:44:11] [Server thread/INFO]: [Not Secure] <farfadox> y los negros
+[04:44:21] [Server thread/INFO]: [Not Secure] <BerberUga> tengo que encerrarlos estoy talando madera
+[04:45:31] [Server thread/INFO]: farfadox has made the advancement [Isn't It Iron Pick]
+[04:45:58] [Server thread/INFO]: [Not Secure] <BerberUga> tanto maicra me volvio bueno
+[04:47:54] [Server thread/INFO]: [Not Secure] <farfadox> 2 PANES
+[04:47:58] [Server thread/INFO]: [Not Secure] <BerberUga> 2 penes
+[04:47:59] [Server thread/INFO]: [Not Secure] <farfadox> mejor mierda
+[04:48:08] [Server thread/INFO]: [Not Secure] <BerberUga> jajajaja
+[04:48:09] [Server thread/INFO]: farfadox lost connection: Disconnected
+[04:48:09] [Server thread/INFO]: farfadox left the game
+[04:48:11] [Server thread/INFO]: [Not Secure] <BerberUga> golosa
+[04:48:17] [Server thread/INFO]: farfadox[/10.127.106.107:56254] logged in with entity id 21425 at (-913.382251152268, 76.0, 62.08590146976329)
+[04:48:17] [Server thread/INFO]: farfadox joined the game
+[04:48:22] [Server thread/INFO]: farfadox lost connection: Disconnected
+[04:48:22] [Server thread/INFO]: farfadox left the game
+[04:48:22] [Server thread/INFO]: [Not Secure] <BerberUga> pucttaa´´
+[04:48:44] [Server thread/INFO]: farfadox[/10.127.106.107:58832] logged in with entity id 21485 at (-912.1575644264622, 76.0, 61.04356511827891)
+[04:48:44] [Server thread/INFO]: farfadox joined the game
+[04:48:52] [Server thread/INFO]: [Not Secure] <BerberUga> vrg pero si yo te di un colchon
+[04:48:56] [Server thread/INFO]: [Not Secure] <BerberUga> justamente para eso
+[04:48:59] [Server thread/INFO]: farfadox has made the advancement [Suit Up]
+[04:48:59] [Server thread/INFO]: [Not Secure] <BerberUga> para dormir
+[04:49:22] [Server thread/INFO]: [Not Secure] <farfadox> lo rompi
+[04:49:30] [Server thread/INFO]: [Not Secure] <farfadox> estaba con unnna aldeana y le parti
+[04:49:37] [Server thread/INFO]: [Not Secure] <BerberUga> vesijue
+[04:49:40] [Server thread/INFO]: [Not Secure] <BerberUga> esos alcances
+[04:52:46] [Server thread/INFO]: [Not Secure] <farfadox> chepon pasame antorchas si o q
+[04:52:56] [Server thread/INFO]: farfadox has made the advancement [Monster Hunter]
+[04:52:58] [Server thread/INFO]: [Not Secure] <BerberUga> aguanta ya voy
+[04:54:02] [Server thread/INFO]: [BerberUga: Teleported BerberUga to farfadox]
+[05:03:42] [Server thread/INFO]: [Not Secure] <farfadox> estas abajo mio picha
+[05:04:03] [Server thread/INFO]: [Not Secure] <BerberUga> no se
+[05:04:09] [Server thread/INFO]: [Not Secure] <BerberUga> quiero ir al nehter
+[05:07:25] [Server thread/INFO]: [Not Secure] <BerberUga> penes hay grava?
+[05:07:44] [Server thread/INFO]: [Not Secure] <farfadox> no chepa
+[05:08:39] [Server thread/INFO]: [Not Secure] <BerberUga> rio de lava??
+[05:08:44] [Server thread/INFO]: [Not Secure] <farfadox> si
+[05:09:58] [Server thread/INFO]: [BerberUga: Teleported BerberUga to farfadox]
+[05:10:04] [Server thread/INFO]: [Not Secure] <BerberUga> eso sera rio de lava
+[05:10:23] [Server thread/INFO]: [Not Secure] <farfadox> recto ps mamaveerga
+[05:10:52] [Server thread/INFO]: [Not Secure] <BerberUga> eso sera rio de lava
+[05:10:54] [Server thread/INFO]: [BerberUga: Teleported BerberUga to farfadox]
+[05:13:00] [Server thread/INFO]: [Not Secure] <farfadox> aqui v tonto
+[05:13:05] [Server thread/INFO]: [BerberUga: Teleported BerberUga to farfadox]
+[05:13:10] [Server thread/INFO]: [Not Secure] <BerberUga> gracias papi
+[05:13:40] [Server thread/INFO]: BerberUga has made the advancement [Ice Bucket Challenge]
+[05:13:43] [Server thread/INFO]: [farfadox: Teleported farfadox to -1162.890000, -38.000000, 42.930000]
+[05:15:07] [Server thread/INFO]: [farfadox: Teleported farfadox to BerberUga]
+[05:15:09] [Server thread/INFO]: farfadox burned to death
+[05:15:18] [Server thread/INFO]: [farfadox: Teleported farfadox to farfadox]
+[05:15:19] [Server thread/INFO]: [Not Secure] <BerberUga> que verga
+[05:15:24] [Server thread/INFO]: [Not Secure] <farfadox> JAKjsakjskajskajk
+[05:15:25] [Server thread/INFO]: [BerberUga: Teleported farfadox to BerberUga]
+[05:15:32] [Server thread/INFO]: farfadox has made the advancement [Ice Bucket Challenge]
+[05:15:54] [Server thread/INFO]: [Not Secure] <BerberUga> y se agarra la obsidiana el ijuepoucta
+[05:19:00] [Server thread/INFO]: [Not Secure] <farfadox> cruza madre heopa
+[05:19:10] [Server thread/INFO]: [BerberUga: Teleported BerberUga to farfadox]
+[05:21:12] [Server thread/INFO]: [Not Secure] <farfadox> n ecesiuts la grava ?
+[05:21:21] [Server thread/INFO]: [Not Secure] <BerberUga> no ya no
+[05:21:29] [Server thread/INFO]: [Not Secure] <BerberUga> ya consigo por afuera ya estooy mas alla que aca
+[05:30:53] [Server thread/INFO]: BerberUga has made the advancement [Surge Protector]
+[05:31:26] [Server thread/INFO]: Villager Villager['Farmer'/28979, l='ServerLevel[world]', x=-887.37, y=71.00, z=23.49] died, message: 'Farmer was slain by Zombie'
+[05:34:19] [Server thread/INFO]: farfadox was shot by Skeleton
+[05:34:24] [Server thread/INFO]: [Not Secure] <BerberUga> vrg lidel
+[05:34:32] [Server thread/INFO]: [Not Secure] <farfadox> puñeta
+[05:34:42] [Server thread/INFO]: [Not Secure] <farfadox> y yo q andab vuiendo elk maincra orgiginasl
+[05:34:47] [Server thread/INFO]: [farfadox: Teleported farfadox to -881.810000, 72.500000, 16.070000]
+[05:35:00] [Server thread/INFO]: [Not Secure] <farfadox> y klasmueertes donde se ven tiltico
+[05:35:06] [Server thread/INFO]: [Not Secure] <BerberUga> no hay
+[05:35:09] [Server thread/INFO]: [Not Secure] <BerberUga> es sin mods
+[05:35:14] [Server thread/INFO]: [Not Secure] <farfadox> ooooooooo
+[05:35:18] [Server thread/INFO]: [Not Secure] <farfadox> ñeta
+[05:35:26] [Server thread/INFO]: [Not Secure] <BerberUga> memoria muscular al fallo
+[05:35:31] [Server thread/INFO]: [Not Secure] <farfadox> malana j7ugamos 6 am chepa
+[05:35:37] [Server thread/INFO]: [Not Secure] <farfadox> tu me hicste tp mamaverga
+[05:35:38] [Server thread/INFO]: [Not Secure] <BerberUga> smn smn
+[05:35:42] [Server thread/INFO]: [Not Secure] <farfadox> copnsiguete muicro
+[05:35:49] [Server thread/INFO]: [Not Secure] <BerberUga> no se si pueda
+[05:35:52] [Server thread/INFO]: [Not Secure] <farfadox> ando solitarioo escuchando ballentaos como puta
+[05:35:55] [Server thread/INFO]: [Not Secure] <farfadox> chuchi
+[05:35:58] [Server thread/INFO]: [Not Secure] <BerberUga> pouta yo jaajjaja
+[05:37:49] [Server thread/INFO]: [Not Secure] <BerberUga> veras que las cosas desaparecen a mas tardar 5 minutos
+[05:37:53] [Server thread/INFO]: [Not Secure] <farfadox> bueno tons tilico lo abanod no por gusto por necesidad q ya cabezee
+[05:37:57] [Server thread/INFO]: [Not Secure] <farfadox> poucta opapeto
+[05:38:01] [Server thread/INFO]: [Not Secure] <farfadox> donde tambienb me moriria
+[05:38:07] [Server thread/INFO]: [Not Secure] <farfadox> q sali pa arriba +
+[05:38:08] [Server thread/INFO]: [Not Secure] <BerberUga> chucha
+[05:38:14] [Server thread/INFO]: [Not Secure] <BerberUga> ya hora
+[05:38:15] [Server thread/INFO]: [Not Secure] <farfadox> y esa hvd no dio pa mas
+[05:38:19] [Server thread/INFO]: [Not Secure] <farfadox> ya nada ps
+[05:38:26] [Server thread/INFO]: [Not Secure] <BerberUga> mañana farmeas
+[05:38:28] [Server thread/INFO]: [Not Secure] <farfadox> me presdes el server y yo resuolevoi
+[05:38:32] [Server thread/INFO]: [Not Secure] <farfadox> cklaro tilico
+[05:38:33] [Server thread/INFO]: [Not Secure] <BerberUga> oki
+[05:38:42] [Server thread/INFO]: [Not Secure] <farfadox> listo no se hara la paja sobres
+[05:38:46] [Server thread/INFO]: farfadox lost connection: Disconnected
+[05:38:46] [Server thread/INFO]: farfadox left the game
+[05:41:25] [Server thread/INFO]: [BerberUga: Set own game mode to Creative Mode]
+[05:42:14] [Server thread/INFO]: [BerberUga: Set own game mode to Survival Mode]
+[05:42:21] [Server thread/INFO]: BerberUga has made the advancement [We Need to Go Deeper]
+[05:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[05:46:27] [Server thread/INFO]: BerberUga lost connection: Disconnected
+[05:46:27] [Server thread/INFO]: BerberUga left the game
+[05:46:36] [Server thread/INFO]: Stopping the server
+[05:46:36] [Server thread/INFO]: Stopping server
+[05:46:36] [Server thread/INFO]: Saving players
+[05:46:36] [Server thread/INFO]: Saving worlds
+[05:46:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:46:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:46:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:46:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:46:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:46:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:46:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
